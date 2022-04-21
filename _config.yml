@@ -1,7 +1,7 @@
-title: CV | A jekyll template
-description:  A beautiful template for your CV.
-url: https://jekyll-cv.stavrospanakakis.com
-baseurl: ''
+title: CV | Xavier Cucurull
+description:  My resumé
+url: https://xaviercucurull.ml
+baseurl: 'resume'
 theme_skin: blue
 
 sass:
