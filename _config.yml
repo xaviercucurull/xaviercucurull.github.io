@@ -1,7 +1,7 @@
 title: CV | Xavier Cucurull
 description:  My resumé
 url: https://xaviercucurull.ml
-baseurl: 'resume'
+baseurl: ''
 theme_skin: blue
 
 sass:
