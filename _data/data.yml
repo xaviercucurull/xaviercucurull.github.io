@@ -1,6 +1,7 @@
 name: John Doe
 support_dark_mode: true
 fork: true
+print: true
 
 # Sidebar
 contact:
