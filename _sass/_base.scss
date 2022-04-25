@@ -34,13 +34,25 @@ body {
     height: 14px;
     }
 
-.btn-xs
+.btn-print
 {
-    padding: 1px 5px !important;
-    font-size: 12px !important;
-    line-height: 1.5 !important;
-    border-radius: 3px !important;
+    background-color: #00629b;;
+    border: none;
+    border-radius: 3px;
+    line-height: 1.5;
+    color: white;
+    padding: 3px 5px;
+    text-align: center;
+    font-size: 12px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
 }
+
+.btn-print:hover {opacity: 1}
 
 .print {
     padding-bottom: 10px;
