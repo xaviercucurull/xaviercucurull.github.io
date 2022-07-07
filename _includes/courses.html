@@ -1,0 +1,16 @@
+{% assign courses = site.data.data.courses %}
+{% if projects %}
+<section class="courses">
+    <h2 class="title">Courses</h2>
+    {% for c in courses %}
+
+        <div class="course">
+            {{c.title}} - <span class="institution">{{c.institution}}</span> 
+            <span>
+                <a href="{{c.link}}"><i data-feather="external-link"></i></a>
+            </span>
+            <span class="time">{{c.time}}</span>
+        </div>
+    {% endfor %}
+</section>
+{% endif %}

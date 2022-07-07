@@ -1,78 +1,104 @@
-name: John Doe
+name: Xavier Cucurull
 support_dark_mode: true
 fork: true
 print: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: xaviercucurull@gmail.com
+  github: xaviercucurull
+  linkedin: xaviercucurull
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: English (C1)
+  - idiom: German (B1)
+  - idiom: Catalan (native)
+  - idiom: Spanish (native)
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in Artificial Intelligence
+    time: 2020-2022
+    university: Universitat Politècnica de Catalunya
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BSc in Electronic Engineering
+    time: 2012-2016
+    university: Universitat Rovira i Virgili
 
 skills:
-  - category: Backend
+  - category: Programming Languages
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Python
+      - C++
+      - C
+  - category: ML Frameworks
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - TensorFlow
+      - Pytorch
+      - Sklearn
+  - category: Tools
     skill:
-      - Docker
-      - Kubernetes 
+      - Git
+      - SVN
+      - Azure DevOps 
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+
+  Passionate about technology, I obtained my bachelor's degree in Electronic Engineering.
+  After some years working in the automotive industry, where I consolidated myself as a 
+  software engineer, I decided to expand my knowledge and pursue a master's degree in 
+  artificial intelligence. I like to continually learn and I am currently looking for work 
+  opportunities to apply AI and machine learning for social good.
+
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Research Intern
+    time: Oct 2021-June 2022
+    company: Institut de Robòtica i Informàtica Industrial
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Developed my final Master Thesis project called "Continual Learning of Hand Gestures
+      for Human Robot Interaction". Final Grade: 9.5/10
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Python, TensorFlow, Pytorch, OpenCV
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Communications Software Engineer
+    time: Oct 2018-Nov 2020
+    company: Lear Corporation
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Performed integration and testing tasks for the LIN, CAN and FlexRay components of a gateway ECU.
+      Develpoed continuous integration tests deployed with Azure DevOps.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Python, C, C++, CAPL, CANoe, Azure DevOps
+
+  - role: Young Talent Program
+    time: Jan 2017-Sep 2018
+    company: Lear Corporation
+    details: |
+      Rotation program among the Software, Purchasing and Finance departments.
+    technologies_used: | 
+      Python, CAPL, CANoe, Excel VBA, Power BI
+
+  - role: Software Engineering Intern
+    time: Jan 2017-Sep 2018
+    company: JLM Innovation
+    details: |
+      Erasmus+ Internship. Programmed embedded software for Atmel ARM and AVR microcontrollers.
+      Develped a front-end Python applications using Qt and matplotlib to plot real time graphs using data from USB HID or UART devices.
+
+    technologies_used: | 
+      Python, C, Qt, USB, UART, I2C
+
+  - role: Software Engineering Trainee
+    time: Jul 2015-May 2016
+    company: Lear Corporation
+    details: |
+      Internship in the software department working on upgrading an automotive benchmark program. 
+    technologies_used: | 
+      C, CANoe
 
 publications:
   - title: Random title of paper. An interesting one.
@@ -98,12 +124,27 @@ projects:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
+# Courses
+courses:
+  - title: Natural Language Processing in TensorFlow
+    institution: DeepLearning.ai on Coursera
+    link: https://www.coursera.org/account/accomplishments/certificate/PH9P9WRGPMDV
+    time: April 2022
+
+  - title: AI for Medical Diagnosis
+    institution: DeepLearning.ai on Coursera
+    link: https://www.coursera.org/account/accomplishments/certificate/ZH9VV22L53BT
+    time: Aug 2021
+  
+  - title: Machine Learning
+    institution: Standford Online on Coursera
+    link: https://www.coursera.org/account/accomplishments/certificate/H9JM5B8SMC6D
+    time: Sep 2020
+
 # Volunteering
 volunteering:
   - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+    role: Volunteer
+    c: Espigoladors
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Volunteer in the gleaning activities of the organization. I also coordinated some volunteering groups.
