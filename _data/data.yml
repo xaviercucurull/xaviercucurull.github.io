@@ -61,7 +61,7 @@ experience:
     company: Institut de Robòtica i Informàtica Industrial
     details: |
       Developed my final Master Thesis project called "Continual Learning of Hand Gestures
-      for Human Robot Interaction". Final Grade: 9.5/10
+      for Human Robot Interaction". Grade: 9.5/10
     technologies_used: | 
       Python, TensorFlow, Pytorch, OpenCV
   
@@ -96,7 +96,8 @@ experience:
     time: Jul 2015-May 2016
     company: Lear Corporation
     details: |
-      Internship in the software department working on upgrading an automotive benchmark program. 
+      Internship in the software department working on upgrading an automotive benchmark program.
+      Developed my final Bachelor Thesis project called "Microcontroller benchmark on Autosar MCAL". Grade: 9.7/10
     technologies_used: | 
       C, CANoe
 
