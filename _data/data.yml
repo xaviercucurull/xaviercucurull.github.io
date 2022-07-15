@@ -48,12 +48,10 @@ skills:
 
 # Profile
 profile: |
-
-  Passionate about technology, I obtained my bachelor's degree in Electronic Engineering.
-  After some years working in the automotive industry, where I consolidated myself as a 
-  software engineer, I decided to expand my knowledge and pursue a master's degree in 
-  artificial intelligence. I like to continually learn and I am currently looking for work 
-  opportunities to apply AI and machine learning for social good.
+  Having always been passionate about technology, I obtained my bachelor's degree in Electronic
+  Engineering. After consolidating myself as a software engineer through +5 years of work experience,
+  I decided to pursue a Master's in Artificial Intelligence. I like to continuously learn, and I 
+  am currently looking for work opportunities to apply AI and machine learning for social good.
 
 
 # Experience
@@ -98,10 +96,9 @@ experience:
     time: Jul 2015-May 2016
     company: Lear Corporation
     details: |
-      Internship in the software department working on upgrading an automotive benchmark program.
       Developed my final Bachelor Thesis project called "Microcontroller benchmark on Autosar MCAL". Grade: 9.7/10
     technologies_used: | 
-      C, CANoe
+      C, CANoe, CAN, Ethernet
 
   - role: Software Engineering Trainee
     time: Jun 2014-Aug 2014
