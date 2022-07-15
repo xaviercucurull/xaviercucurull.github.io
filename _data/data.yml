@@ -36,13 +36,15 @@ skills:
   - category: ML Frameworks
     skill:
       - TensorFlow
-      - Pytorch
+      - PyTorch
+      - OpenCV
       - Sklearn
   - category: Tools
     skill:
       - Git
       - SVN
-      - Azure DevOps 
+      - Azure DevOps
+      - LaTeX
 
 # Profile
 profile: |
@@ -100,6 +102,14 @@ experience:
       Developed my final Bachelor Thesis project called "Microcontroller benchmark on Autosar MCAL". Grade: 9.7/10
     technologies_used: | 
       C, CANoe
+
+  - role: Software Engineering Trainee
+    time: Jun 2014-Aug 2014
+    company: Lear Corporation
+    details: |
+      Learned to program in Python from scratch and developed a set of libraries to communicate with Vector’s VN3600 FlexRay interface.
+    technologies_used: | 
+      Python, FlexRay
 
 publications:
   - title: Random title of paper. An interesting one.
